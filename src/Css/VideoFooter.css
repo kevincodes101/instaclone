@@ -1,0 +1,85 @@
+.avathar{
+    color: white;
+    position: relative;
+    margin-bottom: 40px;
+    margin-left: 10px;
+    bottom: 120px;
+}
+.videoText{
+    position: relative;
+    bottom: 210px;
+    color:white;
+    display: flex;
+    margin-bottom: 20px;
+
+
+
+}
+.videoText > h3 {
+    margin-left: 60px;
+    padding-bottom: 20px;
+}
+.videoText > h3 > button {
+    color: White;
+    font-weight: 900;
+    text-transform: inherit;
+}
+.videoFooter_ticker{
+    position: relative;
+    margin-left: 20px;
+    bottom: 295px;
+}
+.videoFooter_ticker > .ticker {
+    color: white;
+    width: 60%;
+    height: fit-content;
+    margin-left: 60px;
+
+}
+.videoFooter_ticker h1 {
+font-size: 10px;
+font-weight: bold;
+
+}
+.videoFppter_icon{
+    margin-bottom: -25px;
+    margin-left: 30px;
+    color: white;
+    
+}
+.footerSecond{
+    position: relative;
+
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    color: white;
+    bottom: 290px;
+}
+.iconset1{
+    display: flex;
+    justify-content: space-between;
+    width:40%;
+    margin-left: 20px;
+
+
+}
+.iconset2{
+    display: flex;
+    justify-content: space-between;
+    width:40%;
+}
+
+.medium_icon{
+    margin-top: 10px;
+    margin-right: 5px;
+    color: blanchedalmond  ;
+    
+}
+.iconshare{
+    display: flex;
+    width: 50%;
+}
+.iconshare > h3{
+    font-size: 13px;
+}
